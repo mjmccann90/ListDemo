@@ -1,0 +1,11 @@
+/Users/markmccann/workspace/csharp/listsDemo/bin/Debug/netcoreapp3.0/listsDemo
+/Users/markmccann/workspace/csharp/listsDemo/bin/Debug/netcoreapp3.0/listsDemo.deps.json
+/Users/markmccann/workspace/csharp/listsDemo/bin/Debug/netcoreapp3.0/listsDemo.runtimeconfig.json
+/Users/markmccann/workspace/csharp/listsDemo/bin/Debug/netcoreapp3.0/listsDemo.runtimeconfig.dev.json
+/Users/markmccann/workspace/csharp/listsDemo/bin/Debug/netcoreapp3.0/listsDemo.dll
+/Users/markmccann/workspace/csharp/listsDemo/bin/Debug/netcoreapp3.0/listsDemo.pdb
+/Users/markmccann/workspace/csharp/listsDemo/obj/Debug/netcoreapp3.0/listsDemo.csprojAssemblyReference.cache
+/Users/markmccann/workspace/csharp/listsDemo/obj/Debug/netcoreapp3.0/listsDemo.AssemblyInfoInputs.cache
+/Users/markmccann/workspace/csharp/listsDemo/obj/Debug/netcoreapp3.0/listsDemo.AssemblyInfo.cs
+/Users/markmccann/workspace/csharp/listsDemo/obj/Debug/netcoreapp3.0/listsDemo.dll
+/Users/markmccann/workspace/csharp/listsDemo/obj/Debug/netcoreapp3.0/listsDemo.pdb
